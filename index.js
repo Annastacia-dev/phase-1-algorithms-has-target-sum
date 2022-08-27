@@ -33,9 +33,9 @@ function hasTargetSum(array, target) {
 
 /*
   Add written explanation of your solution here
-  // Use a hashmap to store the array as values to be compared to later
+  // Use a hashmap to store the array as values in an object to be compared to later
   // Loop through the array to check if the complement which is target - array[i] is in the map
-  // Return true if it is, if not add the number and return false
+  // Return true if it is, if not add the number to the object
 */
 
 // You can run `node index.js` to view these console logs
